@@ -21,6 +21,7 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Know About Me</h2>
+
 ```yaml
 name: Swati Jha
 located_in: Noida, UP
