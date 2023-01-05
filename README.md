@@ -1,11 +1,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=black"/>
 </p>
-<h1 align="center">Let's connect and have a chat!</h1> 
-<div class='parent' text-align='center'>
-  <div class='child' display='inline-block' vertical-align='middle'><a href="https://www.instagram.com/thepiyushmalhotra/">
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://twitter.com/Ipiyushmalhotra">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>child 1</div>
-  <div class='child'>child 2</div>
-</div>
+</a>
+</p>
 
