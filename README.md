@@ -16,4 +16,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
+<p align="center">
+  <img src= "[https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp](https://giphy.com/gifs/nuevofoundation-coding-stem-anyonecancode-aEwLTJvYxwo1L09oyP)">
+</p>
 
