@@ -20,3 +20,35 @@
   <img src= "https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif">
 </p>
 
+<h2> 👨🏻‍💻 &nbsp;Know About Me</h2>
+```yaml
+name: Swati Jha
+located_in: Noida, UP
+current_job: Software Engineer
+education:
+  [
+    "Self-Taught Programmer",
+    "B.Tech in Computer Science and Engineering",
+    
+  ]
+company: Samsung
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Android Development",
+    "Data structures and Algorithms",
+  ]
+technical_background:
+  [
+    "Software Engineer- Samsung",
+    "Software Engineer- TCS",
+    "Intern - Full Stack Development- SmartX Connected",
+    "Intern - Technical Content Writer- Geeksforgeeks",
+    "Mentor - Hackathon and Coding Club, BIT Sindri",
+  ]
+  
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+```
+  
+---  
