@@ -17,6 +17,6 @@
 </a>
 </p>
 <p align="center">
-  <img src= "[https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp](https://giphy.com/gifs/nuevofoundation-coding-stem-anyonecancode-aEwLTJvYxwo1L09oyP)">
+  <img src= "https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif">
 </p>
 
