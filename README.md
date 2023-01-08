@@ -49,7 +49,7 @@ technical_background:
     "Mentor - Hackathon and Coding Club, BIT Sindri",
   ]
   
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Music", "Sports"]
 ```
   
 ---  
