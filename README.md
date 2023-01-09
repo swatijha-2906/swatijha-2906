@@ -1,7 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=black"/>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swatijha-2906&label=Profile%20views&color=0e75b6&style=flat" alt="swatijha-2906" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swatijha-2906" alt="swatijha-2906" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/this_is_swati" target="blank"><img src="https://img.shields.io/twitter/follow/this_is_swati?logo=twitter&style=for-the-badge" alt="swatijha-2906" /></a> </p>
 <h1 align="center">
+
   Let's Connect and have a Chat!💬
 </h1>
 
@@ -80,9 +86,3 @@ hobbies: ["Music", "Sports"]
 </a>
 
 ![Snake animation](https://github.com/swatijha-2906/swatijha-2906/blob/output/github-contribution-grid-snake.gif)
-
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
