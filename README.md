@@ -31,6 +31,7 @@
 ```yaml
 name: Swati Jha
 located_in: Noida, UP
+email: swatijha0908@gmail.com
 current_job: Software Engineer
 education:
   [
@@ -55,7 +56,7 @@ technical_background:
     "Mentor - Hackathon and Coding Club, BIT Sindri",
   ]
   
-hobbies: ["Music", "Sports"]
+hobbies: ["Photography", "Writing", "Travel", "Fitness"]
 ```
   
 ---  
